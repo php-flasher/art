@@ -2,4 +2,4 @@
 
 ![](php-flasher-logo-dark.svg#gh-dark-mode-only)
 
-![](php-flasher-logo-bell.svg)
+<img src="php-flasher-logo-bell.svg" width="150" />
