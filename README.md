@@ -1,10 +1,5 @@
-![](php-flasher-logo.png)
-![](php-flasher-logo.svg)
-![](php-flasher-logo-border.svg)
+![](php-flasher-logo.svg#gh-light-mode-only)
 
-![](php-flasher-logo-dark.png)
-![](php-flasher-logo-dark.svg)
-![](php-flasher-logo-dark-border.svg)
+![](php-flasher-logo-dark.svg#gh-dark-mode-only)
 
-![](php-flasher-logo-bell.png)
 ![](php-flasher-logo-bell.svg)
